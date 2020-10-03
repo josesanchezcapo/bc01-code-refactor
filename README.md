@@ -10,9 +10,10 @@ assets, images, and screencaps.
 
 The assignment's purpose was to re-factoring a single page using acquired knowledge and skills on HTML, CSS, semantic elements, Github, and more. 
 
-Repository name: 
-The page repository can be accessed via the following link.
-The live page can be accessed via the following link.
+Repository name: bc01-code-refactor
+
+The live page can be accessed via the following  url: 
+https://josesanchezcapo.github.io/bc01-code-refactor/
 
 
 Screecaps:
