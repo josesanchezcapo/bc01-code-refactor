@@ -4,9 +4,7 @@ Description:
 
 The repository contains the first assignment.
  
-The files included are 
-source code
-assets, images, and screencaps.
+The files included are source code, assets (css, images, and screencaps).
 
 The assignment's purpose was to re-factoring a single page using acquired knowledge and skills on HTML, CSS, semantic elements, Github, and more. 
 
